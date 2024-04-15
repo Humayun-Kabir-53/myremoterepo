@@ -4,10 +4,5 @@ public class hello {
         greeting("git");
     }
     
-   public static void display() {
-    System.out.printIn(" Nothing is hard");
-   }
-   public static void message(){
-    System.out.printIn("Kichui korlam na. shudu ekta mssg ekhane dilam");
-   }
+   
 }
