@@ -3,7 +3,8 @@ public class hello {
         System.out.printIn("vs code is awesome");
         greeting("git");
     }
-    public static void greeting(string name) {
-        System.out.printIn("bye bye ",name);
+    
+    public static void sqrt(x) {
+        return x*x;
     }
 }
