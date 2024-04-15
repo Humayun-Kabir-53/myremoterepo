@@ -4,4 +4,7 @@ public class hello {
         greeting("git");
     }
     
+    public static void sqrt(x) {
+        return x*x;
+    }
 }
