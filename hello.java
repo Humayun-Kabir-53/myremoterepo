@@ -4,7 +4,7 @@ public class hello {
         greeting("git");
     }
     
-    public static void sqrt(x) {
-        return x*x;
-    }
+   public static void display() {
+    System.out.printIn(" Nothing is hard");
+   }
 }
